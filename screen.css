@@ -1,0 +1,34 @@
+body{
+    background:#FF8C;
+    }
+    table{
+    width:100%;
+    }
+    .table1,.row1{
+    border-top:1px solid DodgerBlue ;
+    border-bottom:1px solid #FF0066;
+    color:blue;
+    }
+    .row1:hover {
+    background-color:#f0ffff;
+    }
+    .table2,.row2{
+    text-align:left;
+    margin:5px;
+    color:#800000;
+    padding:5px;
+    }
+    .row2:hover{
+    background-color:#0fff;
+    }
+/*
+.Google{
+    list-style-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76HkF7_4shp6w-qgNOfL3gezNYKGUQdaPSg&usqp=CAU');
+}
+.Bing{
+    list-style-image:url('https://blogs.bing.com/getmedia/efddd705-3b29-411b-bdaa-1121f423325c/BingLogo.aspx?width=200&height=107')
+}
+.Yahoo{
+    list-style-image:url('https://c.tenor.com/Fm_cqoZQFHAAAAAM/yahoo-logo.gif');
+}
+*/
