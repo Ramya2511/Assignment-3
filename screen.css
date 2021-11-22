@@ -1,0 +1,36 @@
+body{
+    background:#5CDB95;
+}
+table{
+    width:100%;
+}
+.table1,.row1{
+    border-top:4px solid #F95700FF ;
+    border-bottom:4px solid #F95700FF;
+    color:#F95700FF;
+    background: black;
+    font-size:20px;
+    text-align:center;
+}
+.table2{
+    border-spacing: 50px;
+}
+.row2,.col1,.col2{
+    border: 3px solid #F95700FF;
+    border-radius: 20px;
+    width:250px;
+    height:250px;
+    text-align:left;
+    background:#116466;
+    color:#FFCB9A;
+    padding: 150px;
+    }
+h1{
+    color:#F95700FF;
+    font-size: 30px;
+}
+a{
+    color:#FFCB9A;
+    font-size:20px;
+    text-decoration: None;}
+    
